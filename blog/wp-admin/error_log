@@ -1,0 +1,4 @@
+[04-Sep-2014 08:34:36 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 232373 bytes) in /home/visapenc/public_html/blog/wp-includes/functions.php on line 364
+[04-Sep-2014 08:35:18 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 225193 bytes) in /home/visapenc/public_html/blog/wp-includes/functions.php on line 364
+[04-Sep-2014 08:41:12 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 481243 bytes) in /home/visapenc/public_html/blog/wp-includes/wp-db.php on line 1033
+[04-Sep-2014 08:43:02 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 229696 bytes) in /home/visapenc/public_html/blog/wp-includes/functions.php on line 364

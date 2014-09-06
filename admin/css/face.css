@@ -1,0 +1,37 @@
+
+/* 样式重置 */
+body,ul,ol,dl,dd,p,h1,h2,h3,h4,h5,h6,th,td,input,select,textarea,form{margin:0;padding:0;}
+li{list-style:none;}
+a{text-decoration:none;}
+table{border-collapse:collapse;} /* 单元格间隙合并*/
+th,td{padding:0;}                /*重置单元格默认填充 */
+form{margin:0;}                  /*重置表单默认样式*/
+select{margin:0;}
+textarea{resize:none; overflow:auto; outline:none;}
+img{ border:none; vertical-align:top;}
+.clear{zoom:1;}
+.clear:after{content:"";display:block;clear:both;}
+
+
+
+.menu-ul {}
+.menu-ul .menu-li {height:100px; text-align: center;padding: 10px 0;cursor: pointer;}
+.menu-ul .menu-li:hover {box-shadow: 0 0 50px #ccc;}
+.menu-ul .menu-li p {font:14px/1.5 '微软雅黑';color:#000;}
+
+.menu-ul .menu-li.question-list div {height: 71px;background:url(/admin/images/question.png) no-repeat center center;}
+.menu-ul .menu-li.question-list:hover div,.menu-ul .menu-li.question-list.active div {background:url(/admin/images/question-hover.png) no-repeat center center;}
+
+.menu-ul .menu-li.add-question div {height: 71px;background:url(/admin/images/add-question.png) no-repeat center center;}
+.menu-ul .menu-li.add-question:hover div,.menu-ul .menu-li.add-question.active div {background:url(/admin/images/add-question-hover.png) no-repeat center center;}
+
+.menu-ul .menu-li.order-list div {height: 96px;background:url(/admin/images/order.png) no-repeat center center;}
+
+
+.visa-action-add { width:20px;height:20px;  background: url(/admin/images/add.png) 0px 0px no-repeat !important; }
+.visa-action-delete { width:20px;height:20px; background: url(/admin/images/bin_empty.png) 0px 0px no-repeat !important; }
+.visa-action-update {width:20px;height:20px; background: url(/admin/images/page_edit.png) 0px 0px no-repeat !important; }
+.visa-action-save { width:20px;height:20px; background: url(/admin/images/save.png) 0px 0px no-repeat !important; }
+.visa-action-clear { width:20px;height:20px; background: url(/admin/images/clear.png) 0px 0px no-repeat !important; }
+.visa-action-preview { width:20px;height:20px; background: url(/admin/images/query.png) 0px 0px no-repeat !important; }
+.visa-action-export { width:20px;height:20px; background: url(/admin/images/download_green.png) 0px 0px no-repeat !important; }

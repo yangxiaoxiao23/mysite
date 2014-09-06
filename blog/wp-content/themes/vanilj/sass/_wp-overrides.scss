@@ -1,0 +1,69 @@
+@mixin transition($transition...) {
+    transition:         #{$transition};
+    -moz-transition:    #{$transition};
+    -o-transition:      #{$transition};
+    -webkit-transition: #{$transition};
+}
+html {
+.mejs-container {
+	margin: 12px 0 18px;
+}
+
+.mejs-mediaelement,
+.mejs-container .mejs-controls {
+	background: #000;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-loaded,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	background: #999;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #eee;
+}
+
+.mejs-controls .mejs-time-rail .mejs-time-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
+	background: #333;
+}
+
+.mejs-container .mejs-controls .mejs-time {
+	padding-top: 9px;
+}
+
+.mejs-controls .mejs-time-rail span,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	border-radius: 0;
+}
+
+.mejs-overlay-loading {
+	background: transparent;
+}
+
+.mejs-controls .mejs-time-rail span {
+	height:100%
+}
+.mejs-controls .mejs-time-rail .mejs-time-total {
+	height:5px;
+	margin-top:8px;
+	@include transition(height .1s, margin .1s);
+}
+.mejs-controls:hover .mejs-time-rail .mejs-time-total {
+	height:9px;
+	margin-top:6px;
+}
+
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,
+.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	height: 5px;
+	top: 13px;
+	@include transition(height .1s, top .1s);
+}
+.mejs-controls:hover .mejs-horizontal-volume-slider .mejs-horizontal-volume-total,
+.mejs-controls:hover .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+	height: 9px;
+	top: 11px;
+}
+}

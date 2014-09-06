@@ -1,0 +1,1329 @@
+[ 2014-08-02T16:02:09+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003224s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016723s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001020s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000907s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000654s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004450s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001235s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001486s ]
+
+[ 2014-08-02T16:03:45+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001632s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002621s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001247s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001321s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007712s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002283s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003034s ]
+
+[ 2014-08-02T16:06:18+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002303s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002960s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.002529s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001340s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000890s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006741s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001469s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001750s ]
+
+[ 2014-08-02T16:06:19+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001446s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002764s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001121s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001386s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000647s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005027s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001136s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001449s ]
+
+[ 2014-08-02T16:08:49+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001936s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008855s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001207s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001136s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000800s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006123s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001975s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002273s ]
+
+[ 2014-08-02T16:08:50+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003231s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001453s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000726s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005669s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001743s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002139s ]
+
+[ 2014-08-02T16:09:32+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002370s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000930s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000815s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000570s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000992s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003953s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001060s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001285s ]
+
+[ 2014-08-02T16:10:12+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002290s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000994s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001061s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000603s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004360s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001503s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001772s ]
+
+[ 2014-08-02T16:13:32+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001861s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004268s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.003437s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000834s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007362s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001346s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001598s ]
+
+[ 2014-08-02T16:13:38+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002448s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' F:\work\visa\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.001019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000889s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000601s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004759s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001139s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001367s ]
+
+[ 2014-08-02T16:13:59+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\a411c6e89fb2fd50be30b6a9050dc028.php 第 52 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.043843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044099s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002006s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000986s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000607s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007503s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002612s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002854s ]
+
+[ 2014-08-02T16:20:35+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\a411c6e89fb2fd50be30b6a9050dc028.php 第 52 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031874s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032134s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001890s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001026s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000771s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005667s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001292s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001526s ]
+
+[ 2014-08-02T16:22:50+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\a411c6e89fb2fd50be30b6a9050dc028.php 第 52 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028820s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001011s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001014s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005077s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001353s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001656s ]
+
+[ 2014-08-02T16:22:51+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\a411c6e89fb2fd50be30b6a9050dc028.php 第 52 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000795s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000843s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000568s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003947s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001282s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001643s ]
+
+[ 2014-08-02T16:23:15+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) F:\work\visa\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Access denied for user 'root'@'localhost' (using password: NO)
+
+[ 2014-08-02T16:23:52+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001512s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.048257s ]
+NOTIC: [8] Undefined variable: id F:\work\visa\visa\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SELECT * FROM `visa_question` LIMIT 1   [ RunTime:0.000885s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017680s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001078s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000882s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004439s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001089s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2014-08-02T16:23:56+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003772s ]
+NOTIC: [8] Undefined variable: id F:\work\visa\visa\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SELECT * FROM `visa_question` LIMIT 1   [ RunTime:0.000671s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016624s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000816s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000863s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000576s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004046s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001140s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001380s ]
+
+[ 2014-08-02T16:24:16+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003854s ]
+NOTIC: [8] Undefined variable: id F:\work\visa\visa\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SELECT * FROM `visa_question` LIMIT 1   [ RunTime:0.000590s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017247s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000866s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000869s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001037s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004041s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001064s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2014-08-02T16:24:17+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004685s ]
+NOTIC: [8] Undefined variable: id F:\work\visa\visa\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SELECT * FROM `visa_question` LIMIT 1   [ RunTime:0.000559s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019054s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001121s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000920s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000701s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001166s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004738s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001310s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001553s ]
+
+[ 2014-08-02T16:24:24+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.006517s ]
+NOTIC: [8] Undefined variable: id F:\work\visa\visa\Lib\Action\IndexAction.class.php 第 11 行.
+SQL: SELECT * FROM `visa_question` LIMIT 1   [ RunTime:0.000800s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020124s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000904s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000584s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004256s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001231s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001593s ]
+
+[ 2014-08-02T16:25:10+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005009s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000791s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017720s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001244s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001099s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000773s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005330s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001552s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001794s ]
+
+[ 2014-08-02T16:25:11+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001364s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003546s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000597s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017193s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000908s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000890s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000688s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004645s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001178s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001420s ]
+
+[ 2014-08-02T16:37:11+08:00 ] 127.0.0.1 /Index.php/Article
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001757s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002057s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002373s ]
+ERR: 模板不存在[./visa/Tpl/Article/index.html]
+
+[ 2014-08-02T16:37:19+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001330s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001609s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001361s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021317s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001046s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001623s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001188s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005806s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001413s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2014-08-02T16:37:28+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001676s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020375s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020843s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001183s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001738s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000867s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007231s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001442s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001683s ]
+
+[ 2014-08-02T16:37:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005382s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.001363s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018223s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000865s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000861s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000883s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004681s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001334s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001579s ]
+
+[ 2014-08-02T16:40:02+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001964s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002483s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020393s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001059s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001070s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001178s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005294s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001380s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001626s ]
+
+[ 2014-08-02T16:40:29+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001710s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002012s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027105s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027328s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001203s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001155s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001958s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005802s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001362s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001609s ]
+
+[ 2014-08-02T16:40:41+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001748s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002290s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.033445s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033683s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001126s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002124s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000794s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006236s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001584s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001868s ]
+
+[ 2014-08-02T16:41:40+08:00 ] 127.0.0.1 /Index.php/Article/content
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001610s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001926s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015807s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001272s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001985s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000999s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005671s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001501s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001879s ]
+
+[ 2014-08-02T16:42:47+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005124s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000656s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020520s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001161s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001037s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005068s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001797s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002050s ]
+
+[ 2014-08-02T16:45:13+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003556s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000511s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019228s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000989s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001688s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001192s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005817s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001774s ]
+
+[ 2014-08-02T16:45:16+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004089s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016667s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000826s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000851s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000834s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004406s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001128s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001453s ]
+
+[ 2014-08-02T16:46:11+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003408s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.001643s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017905s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001010s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001007s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000741s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004896s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001348s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001604s ]
+
+[ 2014-08-02T16:46:19+08:00 ] 127.0.0.1 /index.php/Index/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001748s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+ERR: 非法操作:Article
+
+[ 2014-08-02T16:49:06+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002202s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024825s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001042s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001078s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004924s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001408s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2014-08-02T16:49:07+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001414s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001368s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:49:07+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002410s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002729s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:49:07+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002940s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003310s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:50:04+08:00 ] 127.0.0.1 /index.php/Index/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001322s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001596s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001999s ]
+ERR: 非法操作:Article
+
+[ 2014-08-02T16:50:06+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.007378s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000551s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025261s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001055s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003206s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001274s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007985s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001597s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001848s ]
+
+[ 2014-08-02T16:50:29+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004832s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000582s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019915s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001235s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001019s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000931s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005123s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001336s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001591s ]
+
+[ 2014-08-02T16:50:34+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001294s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001581s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022935s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001194s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000951s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001127s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005731s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002707s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002952s ]
+
+[ 2014-08-02T16:50:34+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001289s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001565s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:50:34+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001311s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001583s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:50:35+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001629s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:04+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001599s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001880s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003013s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023406s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001478s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001097s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000861s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005499s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001840s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002205s ]
+
+[ 2014-08-02T16:52:04+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001317s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001522s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:52:04+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001621s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001893s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:04+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003289s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003699s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006480s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:06+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002760s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020380s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020607s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000820s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001055s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000611s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004354s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002559s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002808s ]
+
+[ 2014-08-02T16:52:06+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001285s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001561s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:52:06+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001289s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001564s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001857s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:06+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002254s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002542s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:06+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001280s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001563s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017324s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001093s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001166s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001270s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005558s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001659s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001929s ]
+
+[ 2014-08-02T16:52:07+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001369s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:52:07+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001274s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001571s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001362s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:07+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001361s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001650s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:32+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001707s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017314s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000911s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001711s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000935s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001410s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006121s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001372s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001686s ]
+
+[ 2014-08-02T16:52:32+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001564s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001598s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:52:32+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001718s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003715s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002223s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:52:32+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001332s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001633s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:53:00+08:00 ] 127.0.0.1 /index.php/Article/content/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001319s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001619s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001546s ]
+NOTIC: [8] Constant THEME_NAME already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 223 行.
+NOTIC: [8] Constant THEME_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 174 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined F:\work\visa\ThinkPHP\Lib\Core\View.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 51 行.
+NOTIC: [8] Undefined variable: data F:\work\visa\visa\Runtime\Cache\f044677099f328932052b4009f2211d9.php 第 61 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016824s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000879s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000939s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000933s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005173s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001316s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001631s ]
+
+[ 2014-08-02T16:53:00+08:00 ] 127.0.0.1 /index.php/Article/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001437s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001748s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+ERR: 非法操作:dist
+
+[ 2014-08-02T16:53:00+08:00 ] 127.0.0.1 /index.php/Article/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001369s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001665s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012551s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:53:00+08:00 ] 127.0.0.1 /index.php/Article/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002212s ]
+ERR: 非法操作:assets
+
+[ 2014-08-02T16:53:30+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003568s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.001507s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018716s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019036s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000915s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001187s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000627s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004630s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001140s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001418s ]
+
+[ 2014-08-02T16:53:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001687s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004558s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000469s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017684s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000878s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000911s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004259s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001285s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001555s ]
+
+[ 2014-08-02T16:53:32+08:00 ] 127.0.0.1 /index.php/Article/read/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001314s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001601s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004027s ]
+SQL: SELECT * FROM `visa_question` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000675s ]
+ERR: 模板不存在[./visa/Tpl/Article/read.html]
+
+[ 2014-08-02T16:55:21+08:00 ] 127.0.0.1 /index.php/Article/read/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002013s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002299s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003530s ]
+SQL: SELECT * FROM `visa_question` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017102s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017426s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001546s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000822s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001257s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005405s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002280s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002564s ]
+
+[ 2014-08-02T16:55:21+08:00 ] 127.0.0.1 /index.php/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001384s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001668s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+ERR: 无法加载模块:dist
+
+[ 2014-08-02T16:55:21+08:00 ] 127.0.0.1 /index.php/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001327s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001965s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002233s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T16:55:21+08:00 ] 127.0.0.1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002393s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002725s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T16:55:30+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003719s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000569s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022270s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001571s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001057s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000772s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.006107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010254s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001402s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001661s ]
+
+[ 2014-08-02T16:55:31+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.007576s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000574s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001016s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001256s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000610s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004684s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001323s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001831s ]
+
+[ 2014-08-02T16:55:37+08:00 ] 127.0.0.1 /index.php/Article/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001548s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001838s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.003588s ]
+SQL: SELECT * FROM `visa_question` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000463s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015395s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000833s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000861s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004036s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001221s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001491s ]
+
+[ 2014-08-02T16:55:37+08:00 ] 127.0.0.1 /index.php/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001362s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001650s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+ERR: 无法加载模块:dist
+
+[ 2014-08-02T16:55:37+08:00 ] 127.0.0.1 /index.php/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001916s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003650s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T16:55:37+08:00 ] 127.0.0.1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001300s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001586s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001529s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T16:56:21+08:00 ] 127.0.0.1 /index.php/Article/read/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001744s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002035s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004183s ]
+SQL: SELECT * FROM `visa_question` WHERE ( `id` = 1 ) LIMIT 1   [ RunTime:0.000538s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015052s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015356s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000839s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000927s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000650s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006314s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001228s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001489s ]
+
+[ 2014-08-02T16:56:21+08:00 ] 127.0.0.1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001736s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002025s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T16:56:21+08:00 ] 127.0.0.1 /index.php/dist/js/bootstrap.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001366s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005030s ]
+ERR: 无法加载模块:dist
+
+[ 2014-08-02T16:56:21+08:00 ] 127.0.0.1 /index.php/assets/js/docs.min.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001377s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001735s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:assets
+
+[ 2014-08-02T17:06:34+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001818s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.025769s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000483s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019424s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001315s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001274s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001537s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006207s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001380s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001642s ]
+

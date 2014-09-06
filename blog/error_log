@@ -1,0 +1,9 @@
+[04-Sep-2014 09:04:18 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Flavour_WordPress_Framework' does not have a method '__getComments' in /home/visapenc/public_html/blog/wp-includes/comment-template.php on line 1694
+[04-Sep-2014 09:04:19 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Flavour_WordPress_Framework' does not have a method '__getComments' in /home/visapenc/public_html/blog/wp-includes/comment-template.php on line 1694
+[04-Sep-2014 09:04:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14
+[04-Sep-2014 09:04:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14
+[04-Sep-2014 09:04:28 UTC] PHP Warning:  call_user_func() expects parameter 1 to be a valid callback, class 'Flavour_WordPress_Framework' does not have a method '__getComments' in /home/visapenc/public_html/blog/wp-includes/comment-template.php on line 1694
+[04-Sep-2014 09:21:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14
+[04-Sep-2014 09:21:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14
+[04-Sep-2014 09:21:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14
+[04-Sep-2014 09:21:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/visapenc/public_html/blog/wp-content/themes/vanilj/Flavour/class-flavour-helpers.php on line 14

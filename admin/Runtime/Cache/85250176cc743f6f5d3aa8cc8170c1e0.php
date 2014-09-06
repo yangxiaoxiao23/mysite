@@ -1,0 +1,80 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="__PUBLIC__/js/libs/bootstrap/css/bootstrap.min.css">
+
+    <script src="__PUBLIC__/js/libs/jquery/jquery-2.1.1.js"></script>
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="__PUBLIC__/js/libs/bootstrap/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="__PUBLIC__/js/libs/jquery-ui/jquery-ui.css">
+
+    <link rel="stylesheet" href="__PUBLIC__/js/libs/jquery/jquery-2.1.1.js">
+
+    <script src="__PUBLIC__/js/libs/jquery-ui/jquery-ui.js"></script>
+
+
+    <script src="__PUBLIC__/js/libs/ckeditor/ckeditor.js"></script>
+
+    <script>
+        $(function() {
+            $( ".accordion" ).accordion();
+        });
+    </script>
+
+</head>
+<body>
+<div style="height:100px;">
+    VISA后台管理
+</div>
+
+<!-- 页面主体 -->
+<div>
+    <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-6 col-sm-12 sidebar-offcanvas">
+
+            <div class="panel panel-info">
+
+                <div class="panel-heading">
+                    <h3 class="panel-title">新增问题</h3>
+                </div>
+
+                <div class="panel-body">
+                    <form role="form" method="post" action="__URL__/insert">
+                        <div class="form-group has-success">
+                            <label for="title">标题</label>
+                            <input type="text" class="form-control" id="title" name="title" placeholder="请输入常见问题标题">
+                        </div>
+                        <div class="form-group">
+                            <label for="content">内容</label>
+                            <textarea class="ckeditor" name="content" id="content" placeholder="请输入内容"></textarea>
+                        </div>
+
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox"> 是否公开
+                            </label>
+                        </div>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--/span-->
+    </div>
+    <!--/row-->
+
+    <hr>
+
+    <footer>
+        <p>&copy; Company 2014</p>
+    </footer>
+
+</div>
+<!--/.container-->
+</body>
+</html>

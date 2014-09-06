@@ -1,0 +1,74 @@
+@import 'mixins';
+
+.flavour-options-section {
+	border: 1px solid #e5e5e5;	
+	margin-top:2em;
+}
+.flavour-options-section--nojs {
+	.flavour-options-section-title {
+		&:after {
+			display: none;
+		}
+	}
+	.flavour-options-section-main {
+		max-height: none;
+	}
+}
+
+.flavour-options-section-title {
+	border-bottom: 1px solid #dfdfdf;
+	background-color:#fff;
+	padding:.7em 1em;
+	margin:0;
+	cursor: pointer;
+	&:after {
+		content: '\f140';
+		font-family: dashicons;
+		vertical-align: middle;
+		float:right;
+		color: #aaa;
+	}
+	&:hover {
+		background-color: #f5f5f5;
+		&:after {
+			color: #777;
+		}
+	}
+}
+
+.flavour-options-section-main {
+	background-color: #fff;
+	max-height:0;
+	overflow:hidden;
+	font-size:1.1em;
+	.submit {
+		padding:0;
+	}
+}
+
+.flavour-options-section--active {
+	.flavour-options-section-title {
+		background-color: #f5f5f5;
+	}
+	.flavour-options-section-main {
+		max-height: 50em;
+		padding:1em;
+		@include transition(max-height .3s);
+	}
+}
+
+
+.flavour-option {
+	margin-bottom:.5em;
+}
+.flavour-option-title, .flavour-option-holder {
+	display:inline-block;
+	vertical-align:top;
+	margin:0;
+}
+.flavour-option-title {
+	width:30%;
+}
+.flavour-option-holder {
+	width:70%;
+}

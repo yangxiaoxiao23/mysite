@@ -1,0 +1,45 @@
+@mixin rotate( $degrees, $origin: initial ) {
+	-webkit-transform: rotate(#{$degrees}deg);
+	-moz-transform: rotate(#{$degrees}deg);
+	-ms-transform: rotate(#{$degrees}deg);
+	-o-transform: rotate(#{$degrees}deg);
+	transform: rotate(#{$degrees}deg);
+	-webkit-transform-origin: #{$origin};
+	-moz-transform-origin: #{$origin};
+	-ms-transform-origin: #{$origin};
+	-o-transform-origin: #{$origin};
+	transform-origin: #{$origin};
+	filter:  progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=#{cos($degrees)}, M12=-#{sin($degrees)}, M21=#{sin($degrees)}, M22=#{cos($degrees)});
+	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=#{cos($degrees)}, M12=-#{sin($degrees)}, M21=#{sin($degrees)}, M22=#{cos($degrees)})";
+	zoom: 1;
+}
+@mixin transition($transition...) {
+    transition:         #{$transition};
+    -moz-transition:    #{$transition};
+    -o-transition:      #{$transition};
+    -webkit-transition: #{$transition};
+}
+@mixin transformsition($a) {
+    transition:         #{$a};
+	-moz-transition:    -moz-#{$a};
+    -o-transition:      -o-#{$a};
+    -webkit-transition: -webkit-#{$a};
+}
+@mixin transform($params) {
+	-webkit-transform: $params;
+	-moz-transform:    $params;
+	transform:         $params;
+}
+@mixin calc($property, $expression) {
+  #{$property}: -moz-calc(#{$expression});
+  #{$property}: -webkit-calc(#{$expression});
+  #{$property}: calc(#{$expression});
+}
+
+@mixin opacity($trans) {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=#{$trans * 100})";
+  filter: alpha(opacity=($trans * 100));
+  -moz-opacity: $trans;
+  -khtml-opacity: $trans;
+  opacity: $trans;
+}

@@ -1,0 +1,97 @@
+[ 2014-08-06T11:42:26+08:00 ] 61.141.157.167 /visaadmin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004707s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000104s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019519s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000310s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000302s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000193s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001403s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000616s ]
+
+[ 2014-08-06T11:42:39+08:00 ] 61.141.157.167 /visaadmin.php/Question/read?_dc=1407296549747
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000334s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004071s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000056s ]
+
+[ 2014-08-06T11:43:00+08:00 ] 183.63.48.194 /visaadmin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004235s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000056s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003076s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000135s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000135s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000092s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000629s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000249s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000278s ]
+
+[ 2014-08-06T11:43:06+08:00 ] 183.63.48.194 /visaadmin.php/Question/read?_dc=1407296585130
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005167s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000095s ]
+
+[ 2014-08-06T11:51:46+08:00 ] 61.141.157.167 /visaadmin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005580s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000056s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003113s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000137s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000137s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000090s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000632s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000240s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000270s ]
+
+[ 2014-08-06T11:51:52+08:00 ] 61.141.157.167 /visaadmin.php/Question/read?_dc=1407297103527
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000336s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.004805s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000050s ]
+
+[ 2014-08-06T12:18:12+08:00 ] 180.153.206.26 /visaadmin.php/Question/read?_dc=1407296549747
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000730s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `visa_question` [ RunTime:0.005278s ]
+SQL: SELECT * FROM `visa_question`  [ RunTime:0.000101s ]
+

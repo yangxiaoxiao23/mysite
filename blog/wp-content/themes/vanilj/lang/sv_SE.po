@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vanilj\n"
+"POT-Creation-Date: 2014-04-01 23:25+0100\n"
+"PO-Revision-Date: 2014-04-01 23:34+0100\n"
+"Last-Translator: Eric Wennerberg <ericwenn@gmail.com>\n"
+"Language-Team: ericwenn <ericwenn@gmail.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Flavour.php:155
+#, php-format
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: ../Flavour.php:350
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar väntar på godkännande."
+
+#: ../Flavour.php:362
+msgid "at"
+msgstr "vid"
+
+#: ../Flavour.php:363
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../Flavour.php:364
+msgid "Reply"
+msgstr "Svara"
+
+#: ../author-bio.php:7
+#, php-format
+msgid "About %s"
+msgstr "Om %s"
+
+#: ../author-bio.php:11
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: ../comments.php:9
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En reaktion på &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reaktioner på &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:29
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: ../comments.php:30
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: ../comments.php:31
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: ../comments.php:38
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: ../comments.php:43
+msgid "Leave a Reply"
+msgstr "Kommentera"
+
+#: ../comments.php:44
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Inloggad som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Logga ut "
+"från detta konto\">Logga ut?</a>"
+
+#: ../comments.php:45
+msgctxt "noun"
+msgid "Comment"
+msgstr "Kommentera"
+
+#: ../comments.php:46
+msgid "Post Comment"
+msgstr "Skicka kommentar"
+
+#: ../content-none.php:2 ../search.php:11
+msgid "Nothing Found"
+msgstr "Ingenting hittat"
+
+#: ../content-none.php:8
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Redo att publicera ditt första inlägg? <a href=\"%1$s\">Starta här</a>."
+
+#: ../content-none.php:12
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Tyvärr, ingenting matchade dina söktermer. Var snäll och försök igen med nya "
+"sökord."
+
+#: ../content-none.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det verkar som om att vi inte kan hitta vad du letar efter. Att söka kanske "
+"hjälper."
+
+#: ../footer.php:2
+msgid "Created with <a href=\"#\">Vanilj</a>"
+msgstr "Skapat med <a href=\"#\">Vanilj</a>"
+
+#: ../functions.php:18
+msgid "Header Navigation"
+msgstr "Header navigation"
+
+#: ../functions.php:22
+msgctxt "2014/01/01 [by] author"
+msgid "by"
+msgstr "av"
+
+#: ../functions.php:26
+msgid "Continue reading"
+msgstr "Läs mer"
+
+#: ../functions.php:31 ../functions.php:32
+msgid "Customize Vanilj"
+msgstr "Anpassa Vanilj"
+
+#: ../header.php:22
+msgid "Search Vanilj"
+msgstr "Sök på Vanilj"
+
+#: ../header.php:26
+msgid "Popular Categories"
+msgstr "Populära Kategorier"
+
+#: ../search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: ../search.php:15
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Tyvärr, ingenting matchade dina söktermer. Var snäll och försök igen med nya "
+"sökord."
+
+#: ../searchform.php:2
+msgid "Search"
+msgstr "Sök på Vanilj"
+
+#: ../yarpp-template-vanilj.php:9
+msgid "Related Posts"
+msgstr "Relaterade Inlägg"
+
+#: ../yarpp-template-vanilj.php:19
+msgid "No related posts."
+msgstr "Inga relaterade inlägg."
+
+#~ msgid "All posts by %s"
+#~ msgstr "All inlägg av %s"
+
+#~ msgid "Header Image"
+#~ msgstr "Header bild"
+
+#~ msgctxt "15 March [at] 14:00"
+#~ msgid "at"
+#~ msgstr "vid"
+
+#~ msgid "Your comment is awaiting moderation"
+#~ msgstr "Din kommentar väntar på godkännande"

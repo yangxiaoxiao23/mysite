@@ -1,0 +1,93 @@
+<html>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<body>
+	<div class="box">
+		<h4 class="box-title">Tab</h4>
+		<div class="box-content">
+			<p>Renders an element with <code>X</code> tabs.</p>
+			<div class="box-options">
+				<div class="box-options-option" data-type="tab" data-value="2">2</div><div class="box-options-option" data-type="tab" data-value="n">n...</div>
+			</div>
+		</div>
+	</div><div class="box">
+		<h4 class="box-title">Accordion</h4>
+		<div class="box-content">
+			<p>Renders an accordionelement with <code>X</code> sections.</p>
+			<div class="box-options">
+				<div class="box-options-option" data-type="accordion" data-value="2">2</div><div class="box-options-option" data-type="accordion" data-value="n">n...</div>
+			</div>
+		</div>
+	</div>
+</body>
+<style>
+	body {
+		font-family: 'Verdana', sans-serif;
+		font-size:100%;
+		color: #333;
+	}
+	.box {
+		width:49%;
+		margin-right:2%;
+		display: inline-block;
+		vertical-align: top;
+	}
+	.box:nth-child(2n) {
+		margin-right:0;
+	}
+	.box-title {
+		margin: 0;
+		border: 1px rgb(218, 218, 218) solid;
+		padding: .3em .5rem;
+		background-color: rgb(241, 241, 241);
+	}
+	.box-content {
+		padding: .7rem .5rem;
+		border: 1px rgb(230, 230, 230) solid;
+		font-size: .8em;
+	}
+	.box-content p {
+		margin-top:0;
+	}
+	.box-options-option {
+		display: inline-block;
+		border: 1px rgb(189, 189, 189) solid;
+		padding: .4em;
+		line-height: 1;
+		min-width: 2em;
+		text-align: center;
+		cursor: pointer;
+		margin-right: .5em;
+	}
+	.box-options-option:hover {
+		border-color: rgb(150,150,150);
+	}
+</style>
+<script>
+$(document).ready(function() {
+	$(".box-options-option").on('click', function() {
+		var type = $(this).data('type'),
+			selected = top.tinymce.activeEditor.selection.getContent();
+
+		if(type == "tab") {
+			var numberOfTabs = $(this).data('value') == 'n' ? prompt('How many tabs?') : $(this).data('value');
+			var content = '[flavour_tabparent]<br>';
+			for(var i=0;i<numberOfTabs;i++) {
+				var tmp = selected && i == 0 ? selected : 'Tab content goes here...';
+				content += '[flavour_tab title="Tab Title"]<br>'+tmp+'<br>[/flavour_tab]<br>';
+			}
+			content += '[/flavour_tabparent]';
+		} else if(type == "accordion") {
+			var numberOfSections = $(this).data('value') == 'n' ? prompt('How many sections?') : $(this).data('value');
+			var content = '[flavour_accordion]<br>';
+			for(var i=0;i<numberOfSections;i++) {
+				var tmp = selected && i == 0 ? selected : 'Section content goes here...';
+				content += '[flavour_accordion_section title="Tab Title"]<br>'+tmp+'<br>[/flavour_accordion_section]<br>';
+			}
+			content += '[/flavour_accordion]';
+		}
+		top.tinymce.execCommand('mceInsertContent', false, content);
+		top.tinymce.activeEditor.windowManager.close();
+	})
+});
+</script>
+</html>
